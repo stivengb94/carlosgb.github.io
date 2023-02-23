@@ -10,7 +10,7 @@ html {
   body {
     width: 800px;
     margin: 0 auto;
-    background-image: url("../carlos/back.jpg");
+    background-image: url("back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
         -moz-background-size: cover;
