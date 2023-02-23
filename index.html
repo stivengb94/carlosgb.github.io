@@ -5,7 +5,7 @@
     
     <title>super heroes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../carlos/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
 
@@ -24,7 +24,7 @@
 
     async function populate() {
 
-      const requestURL = '../carlos/miarchivo.json';
+      const requestURL = 'miarchivo.json';
       const request = new Request(requestURL);
 
       const response = await fetch(request);
