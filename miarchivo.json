@@ -1,0 +1,41 @@
+{
+    "escuadron" : "Super Heroes DC comics",
+    "ciudad" : "metropolis",
+    "creado" :2000,
+    "base" : "Super poder",
+    "active" : true,
+    "miembros" : [
+      {
+        "nombre" : "Flash",
+        "edad" : 35,
+        "identidad" : "barry alen",
+        "poderes" : [
+          "super velocidad",
+          "tornados ",
+          "remanentes de tiempo"
+        ]
+        
+      },
+      {
+        "nombre" : "Superman",
+        "edad" : 25,
+        "identidad" : "clark ken",
+        "poderes" : [
+          "rayos x",
+          "super fuerza",
+          "valar"
+        ]
+      },
+      {
+        "nombre" : "batman",
+        "edad" : 30,
+        "identidad" : "Brunos Diaz",
+        "poderes" : [
+          "Millonario",
+          "combate cuerpo",
+          "estratega"
+         
+        ]
+      }
+    ]
+  }
